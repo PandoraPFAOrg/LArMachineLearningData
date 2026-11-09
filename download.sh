@@ -118,6 +118,10 @@ then
     download "I69c6Pc78Rg7noj" "PandoraNet_ShowerGrowing_DUNEFD_VD_Attn_v05_00_00.pt"
     download "mcPqbgBwBjsl2qo" "PandoraNet_ShowerGrowing_DUNEFD_VD_Encoder_v05_00_00.pt"
     download "5KkZhMjnwm49tvO" "PandoraNet_ShowerGrowing_DUNEFD_VD_Sim_v05_00_00.pt"
+
+    download "qkW1lXTmHjG5kuy" "PandoraNet_ShowerMatching_DUNEFD_HD_Attn_v05_09_00.pt"
+    download "CkqzQt6qonuje2G" "PandoraNet_ShowerMatching_DUNEFD_HD_Encoder_v05_09_00.pt"
+    download "RgiqtNeuhUbX4X5" "PandoraNet_ShowerMatching_DUNEFD_HD_Sim_v05_00_09.pt"
   fi
 
   if [[ "$2" == "atmos" ]]
